@@ -4,4 +4,4 @@ Rename all your files in any folder instantly. Just clone this repository, copy 
 python renamer.py your_new_name 
 ```
 
-and all the files in that folder will be renamed with your_new_name followed by a number starting form 1
+and all the files in that folder will be renamed with your_new_name followed by a number starting from 1
